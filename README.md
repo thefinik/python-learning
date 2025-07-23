@@ -15,3 +15,4 @@ My journey of learning Python, Data Analysis and Machine Learning
 
 ## Author
 Andrew 🇺🇦
+Python student, self-taught learner, and future AI enthusiast.
