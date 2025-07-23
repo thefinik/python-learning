@@ -1,7 +1,6 @@
 # python-learning
 My journey of learning Python, Data Analysis and Machine Learning
 
-This repository contains my learning progress in Python and basic Machine Learning.
 
 ## Topics Covered
 - Variables and data types
