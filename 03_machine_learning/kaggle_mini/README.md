@@ -1,4 +1,4 @@
-# 🎓 Kaggle Mini Project — Student Performance
+# Kaggle Mini Project — Student Performance
 
 **Goal:** predict if a student will pass (`passed` ∈ {0,1}) using:
 - `hours` — study hours
@@ -13,6 +13,11 @@
    - KNN — `k` chosen via 4-fold cross-validation
 4. Evaluate on test set (Accuracy).
 5. Visualize results (`results.png`) and the tree (`tree.png`).
+
+## Results
+Accuracy (LogReg): 0.75
+Accuracy (DecisionTree): 0.75
+Accuracy (KNN): 0.83
 
 ## How to run
 ```bash
