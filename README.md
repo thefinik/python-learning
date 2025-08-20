@@ -1,46 +1,25 @@
-# 🐍 Python Learning Journey
+- Python Learning Journey
 
-Welcome to my learning journey through Python, Data Analysis, and Machine Learning.
+My personal journey in Python, Data Analysis, and Machine Learning.
 
-This repository contains:
-- 🧠 Python basics
-- 🛠️ Practical mini-projects
-- 🤖 First steps in Machine Learning
+- Structure
+	•	01_basics/ – Python basics
+	•	02_projects/ – Small practice projects
+	•	03_machine_learning/ – ML projects (Scikit-Learn, Kaggle)
+	•	04_pandas_practice/ – Data analysis with pandas
 
----
+- Progress
+	•	Python Basics ✔️
+	•	Practice Projects ✔️
+	•	Machine Learning → in progress (incl. Kaggle mini-projects)
 
-## 📁 Folder Structure
+- Goal
 
-### 1. `01_basics/` – Python Basics
-Simple examples to learn:
-- variables, conditions, loops
-- functions, lists & dictionaries
-- math functions, file reading/writing
-- text filtering, statistics
+Step by step: from basics → projects → real AI tools.
 
-### 2. `02_projects_text/` – Text Mini-Projects
-- Word counter
-- Filtered word lists
+⸻
 
-### 3. `03_machine_learning/` – Machine Learning Projects
-- Predicting scores by study hours
-- Predicting salary by experience
+Author
 
----
-
-## ✅ My Progress
-
-- ✅ Python Basics ✔️  
-- ✅ Practice Projects ✔️  
-- 🚀 Machine Learning — In progress
-
----
-
-## 💡 Goal
-
-To build real, working AI tools step by step.  
-Everything I upload here is part of my growth. Let’s go!
-
-## Author
-Andrew 🇺🇦
+Andrew 🇺🇦 — Python student & AI enthusiast�🇦
 Python student, self-taught learner, and AI enthusiast.
