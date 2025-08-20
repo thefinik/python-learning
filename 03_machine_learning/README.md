@@ -6,6 +6,7 @@ First steps into machine learning using scikit-learn.
 
 - `predict_score/` – Predict test score from study hours
 - `predict_salary/` – Predict salary from years of experience
+- `kaggle_mini/` – Small Kaggle-based project 
 
 Each project includes:
 - CSV dataset
