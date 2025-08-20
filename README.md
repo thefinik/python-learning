@@ -1,25 +1,28 @@
-- Python Learning Journey
+# Python Learning Journey  
 
-My personal journey in Python, Data Analysis, and Machine Learning.
+My personal journey in **Python, Data Analysis, and Machine Learning**.  
 
-- Structure
-	•	01_basics/ – Python basics
-	•	02_projects/ – Small practice projects
-	•	03_machine_learning/ – ML projects (Scikit-Learn, Kaggle)
-	•	04_pandas_practice/ – Data analysis with pandas
+---
 
-- Progress
-	•	Python Basics ✔️
-	•	Practice Projects ✔️
-	•	Machine Learning → in progress (incl. Kaggle mini-projects)
+## Structure  
+- `01_basics/` – Python basics  
+- `02_projects/` – Small practice projects  
+- `03_machine_learning/` – ML projects (Scikit-Learn, Kaggle)  
+- `04_pandas_practice/` – Data analysis with pandas  
 
-- Goal
+---
 
-Step by step: from basics → projects → real AI tools.
+## Progress  
+- Python Basics ✔️  
+- Practice Projects ✔️  
+- Machine Learning → in progress (incl. Kaggle mini-projects)  
 
-⸻
+---
 
-Author
+## Goal  
+Step by step: from basics → projects → real AI tools.  
 
-Andrew 🇺🇦 — Python student & AI enthusiast�🇦
-Python student, self-taught learner, and AI enthusiast.
+---
+
+### Author  
+Andrew 🇺🇦 — Python student & AI enthusiast  
