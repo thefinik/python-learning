@@ -4,18 +4,20 @@ My personal journey in **Python, Data Analysis, and Machine Learning**.
 
 ---
 
-## Structure  
-- `01_basics/` – Python basics  
-- `02_projects/` – Small practice projects  
-- `03_machine_learning/` – ML projects (Scikit-Learn, Kaggle)  
-- `04_pandas_practice/` – Data analysis with pandas  
+## Structure
+- `01_basics/` – Python basics (variables, loops, functions)
+- `02_projects/` – Small practice projects
+- `03_machine_learning/` – ML projects with **Scikit-Learn** & Kaggle mini-projects
+- `04_pandas_practice/` – Data analysis with **pandas**
+- `05_deep_learning/` – Neural Networks with **TensorFlow/Keras** 🆕
 
 ---
 
-## Progress  
-- Python Basics ✔️  
-- Practice Projects ✔️  
-- Machine Learning → in progress (incl. Kaggle mini-projects)  
+## Progress
+- Python Basics
+- Practice Projects
+- Machine Learning (regression, classification, KNN, pipelines)
+- Deep Learning – **in progress** (neural nets, hidden layers, activation functions)
 
 ---
 
