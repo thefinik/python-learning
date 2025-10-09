@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+dl-env/
+tf-env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model/data files
+*.dylib
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+*.csv
+*.npz
+
+# System files
+.DS_Store
+.ipynb_checkpoints/
