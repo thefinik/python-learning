@@ -1,4 +1,5 @@
 # My Personal Python Learning Journey  
+
 ---
 
 ## Structure
@@ -8,6 +9,7 @@
 - `04_pandas_practice/` – Data analysis with **pandas**
 - `05_deep_learning/` – Neural Networks with **TensorFlow/Keras** 🆕
 - `06_nlp_sentiment_analysis` – Sentiment Analysis (TF-IDF + Naive Bayes)
+- 
 ---
 
 ## Progress
@@ -16,10 +18,12 @@
 - Machine Learning (regression, classification, KNN, pipelines)
 - Deep Learning – **in progress** (neural nets, hidden layers, activation functions)
 - NLP - (TF-IDF, tokenization, stopwords)*
+- 
 ---
 
 ## Goal  
 Step by step: from basics → projects → real AI tools.  
+
 ---
 
 ### Author  
