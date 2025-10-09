@@ -1,6 +1,4 @@
-# Python Learning Journey  
-
-My personal journey in **Python, Data Analysis, and Machine Learning**.  
+# My Personal Python Learning Journey  
 ---
 
 ## Structure
