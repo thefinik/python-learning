@@ -8,14 +8,7 @@
 - `04_pandas_practice/` – Data analysis with **pandas**
 - `05_deep_learning/` – Neural Networks with **TensorFlow/Keras** 🆕
 - `06_nlp_sentiment_analysis` – Sentiment Analysis (TF-IDF + Naive Bayes)
----
-
-## Progress
-- Python Basics
-- Practice Projects
-- Machine Learning (regression, classification, KNN, pipelines)
-- Deep Learning – **in progress** (neural nets, hidden layers, activation functions)
-- NLP - (TF-IDF, tokenization, stopwords)*
+- `07_nlp_text_classification` – Text Classification (TF-IDF + Naive Bayes + Pipeline)
 ---
 
 ## Goal  
